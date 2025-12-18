@@ -49,5 +49,13 @@ Um sem o outro não funciona.
 ---
 
 ## Visão simples
-- IGW conecta a VPC à internet
-- Route Table decide o caminho do tráfego
+Imagine a VPC como um bairro.
+
+A conectividade são:
+- As **ruas internas** (recursos falando entre si)
+- As **saídas para a cidade** (internet)
+
+O Internet Gateway é o **portão do bairro**.
+A Route Table é o **mapa dizendo por onde os carros podem ir**.
+
+Se o mapa estiver errado, ninguém chega ao destino.

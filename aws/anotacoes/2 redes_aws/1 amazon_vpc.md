@@ -34,5 +34,12 @@ Isso garante segurança desde o início.
 ---
 
 ## Visão simples
-- EC2 roda dentro da VPC
-- A VPC controla comunicação interna e externa
+Pense na VPC como um **terreno murado** que você alugou.
+Tudo que você coloca lá dentro é seu, mas **ninguém entra e ninguém sai** sem você autorizar.
+
+Você decide:
+- Onde ficam as entradas
+- Quem pode circular
+- O que pode sair para a rua (internet)
+
+A VPC é a base de toda a rede na AWS.

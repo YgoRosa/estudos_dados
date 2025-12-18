@@ -47,6 +47,13 @@ NACL é uma **lista de regras de tráfego** aplicada às sub-redes.
 
 ---
 
-## Visão simples
-- Sub-rede organiza recursos
-- NACL protege a sub-rede
+## visão simples
+As sub-redes são como **quadras dentro do bairro**.
+Cada quadra pode ter regras diferentes.
+
+O NACL é o **guarda da quadra**:
+- Ele olha quem entra
+- Olha quem sai
+- Pode barrar na hora
+
+Ele não conhece as pessoas, só segue regras.

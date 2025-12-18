@@ -48,5 +48,12 @@ Isso é base de segurança na AWS.
 ---
 
 ## Visão simples
-- EC2, banco e serviços rodam **dentro da VPC**
-- A VPC controla **quem pode falar com quem**
+Redes na AWS são como organizar uma **cidade digital**.
+
+Você precisa:
+- Definir bairros (VPC)
+- Separar quadras (sub-redes)
+- Controlar entradas e saídas (conectividade)
+- Colocar regras de segurança
+
+Sem isso, tudo vira bagunça ou fica inseguro.
